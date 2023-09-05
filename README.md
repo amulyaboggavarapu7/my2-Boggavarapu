@@ -9,6 +9,9 @@
 1.Shopping<br>
 2.playing Games<br>
 3.Images capturing<br>
+*Chicken saloona<br>
+*Harees<br>
+*Majboos<br>
 
 
  
