@@ -27,8 +27,11 @@ The following table shows the sports that I recommend to play.
 | Volley ball | physical fitness |  1  |
 | chess | improves thinking capacity | 3-4|
 
- 
+---
+# PITHY QUOTES
 
+>*Albert einstin*-- We can't solve today's problems with the mentality that created them.<br>
+>*Albert Einstein*"The most important thing is to never stop questioning.”
 
 
 
