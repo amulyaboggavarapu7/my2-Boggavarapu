@@ -30,7 +30,7 @@ The following table shows the sports that I recommend to play.
 ---
 # PITHY QUOTES
 
->*Albert einstin*-- We can't solve today's problems with the mentality that created them.<br>
+>*Albert einstin*-- "We can't solve today's problems with the mentality that created them."<br>
 >*Albert Einstein*"The most important thing is to never stop questioning.”
 
 
