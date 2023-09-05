@@ -6,9 +6,9 @@
 **The dubai fountain**
 # Activites
 --- 
-Shopping<br>
-playing Games<br>
-Images capturing<br>
+1.Shopping<br>
+2.playing Games<br>
+3.Images capturing<br>
 
 
  
