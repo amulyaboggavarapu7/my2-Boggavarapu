@@ -20,13 +20,12 @@
 # TABLES
 The following table shows the sports that I recommend to play.
 
-| NAME | REASON | HOURS |<BR>
-| ---  | ---    | ---:  |<br>
-| Tennis | hand-eye coordination | 2-3 |<br>
-|Basket ball | improves fundamental movement skills | 1-2 |<br>
-|Volley ball | physical fitness | 1 |<br>
-| chess |  improves thinking capacity | 3-4 |<br>
-
+ NAME| REASON | HOURS |
+| --- | --- | ---: |
+| Tennis|  hand-eye coordination |  2-3  |
+| Basket ball | improves fundamental movement skills | 1-2  |
+| Volley ball | physical fitness |  1  |
+| chess | improves thinking capacity | 3-4|
 
  
 
