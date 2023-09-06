@@ -31,7 +31,27 @@ The following table shows the sports that I recommend to play.
 # PITHY QUOTES
 
 >*Albert einstin*-- "We can't solve today's problems with the mentality that created them."<br>
+
 >*Albert Einstein*"The most important thing is to never stop questioning.”
+
+---
+# Code Fencing
+>Best way to generate a random color in javascript?<br>
+[stackoverflow](https://stackoverflow.com/questions/1152024/best-way-to-generate-a-random-color-in-javascript)
+```
+var randomColor = Math.floor(Math.random()*16777215).toString(16);
+const setBg = () => {
+  const randomColor = Math.floor(Math.random()*16777215).toString(16);
+  document.body.style.backgroundColor = "#" + randomColor;
+  color.innerHTML = "#" + randomColor;
+}
+
+genNew.addEventListener("click", setBg);
+setBg();
+
+```
+
+
 
 
 
