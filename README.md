@@ -50,6 +50,7 @@ genNew.addEventListener("click", setBg);
 setBg();
 
 ```
+[generate a random color](https://css-tricks.com/snippets/javascript/random-hex-color/)
 
 
 
